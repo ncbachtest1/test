@@ -1,0 +1,1 @@
+.tap-text{display:block}.tap-text__one-line{white-space:nowrap}.tap-text__multi-line,.tap-text__one-line{word-wrap:break-word;word-break:break-word;overflow:hidden;text-overflow:ellipsis}.tap-text__multi-line{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:var(--4dd0021e)}
